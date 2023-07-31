@@ -2,16 +2,16 @@ Confidentiality Policy for ClashDeck Football
 
 Last updated: 20.06.2023
 
-Twentri Inc (“we”, “our”, or “us”) is committed to respecting and protecting the confidentiality of the personal information of the users (“you”) of ClashDack Football (“the Game”), available on Android devices.
+Twentri Inc (“we”, “our”, or “us”) is committed to respecting and protecting the confidentiality of the personal information of the users (“you”) of ClashDack Football (“the Game”), available on Android & iOS devices.
 
 This Confidentiality Policy explains what information is collected, how it is used, and how we protect your information when you use our Game. By using the Game, you agree to the collection and use of information as outlined in this policy.
 
 Information Collection and Use
 When you use the Game, we may collect information that can be used to identify you. The types of information collected through the Game include:
 
-Gameplay Data: Such as scores, achievements, and in-game purchases.
-Device Information: Including device model, operating system version, and unique identifiers.
-Usage Information: Data on how you interact with the Game, such as features used and time spent in the Game.
+Gameplay Data: Such as scores, achievements, progress, including in most cases an automatically created internal account ID.
+Device Information: Including device model, operating system version, language and unique identifiers.
+Usage Information: Data on how you interact with the Game, such as features used and time spent in the Game, emails, if you want to get special in-game rewards.
 Purpose of Collection
 We collect information for the following purposes:
 
@@ -29,6 +29,9 @@ In the event that we are involved in a merger, acquisition, or sale of assets, y
 
 Your Choices
 You may opt-out of any future communications from us at any time. You can do this by contacting us via the email address given on our website.
+
+Push Notifications
+We may send you push notifications through our mobile applications. You may at any time opt-out from receiving these types of communications by changing the settings on your mobile device.
 
 Changes to This Confidentiality Policy
 We reserve the right to update or change our Confidentiality Policy at any time. We will notify you of any changes by posting the new Confidentiality Policy on this page. You are advised to review this Confidentiality Policy periodically for any changes.
